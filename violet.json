@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1593682294,
-      "filename": "CesiumOS-v2.6.1-violet-20200702-0932-OFFICIAL.zip",
-      "id": "b947fc87fae4d9c33376df40713533bf",
+      "datetime": 1595417188,
+      "filename": "CesiumOS-v2.6.2-violet-20200722-1128-OFFICIAL.zip",
+      "id": "aad8874dc026ce995aea642ed4d830a6",
       "romtype": "OFFICIAL",
-      "size": 964438146,
-      "url": "https://sourceforge.net/projects/cesiumos-org/files/violet/CesiumOS-v2.6.1-violet-20200702-0932-OFFICIAL.zip/download",
+      "size": 1068065806,
+      "url": "https://sourceforge.net/projects/cesiumos-org/files/violet/CesiumOS-v2.6.2-violet-20200722-1128-OFFICIAL.zip/download",
       "version": "2.6.1"
     }
   ]
