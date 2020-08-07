@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1594141808,
-      "filename": "CesiumOS-v2.6.2-s2-20200707-1711-OFFICIAL.zip",
-      "id": "92d274a3ca85977077a0bbbb40f6f298",
+      "datetime": 1596535674,
+      "filename": "CesiumOS-v2.7-s2-20200804-1009-OFFICIAL.zip",
+      "id": "32c17158edb8a6ae7de8940921e97b7b",
       "romtype": "OFFICIAL",
-      "size": 738501519,
-      "url": "https://sourceforge.net/projects/cesiumos-org/files/s2/CesiumOS-v2.6.2-s2-20200707-1711-OFFICIAL.zip/download",
-      "version": "2.6.2"
+      "size": 845114691,
+      "url": "https://sourceforge.net/projects/cesiumos-org/files/s2/CesiumOS-v2.7-s2-20200804-1009-OFFICIAL.zip/download",
+      "version": "2.7"
     }
   ]
 }
