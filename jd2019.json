@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1596543807,
-      "filename": "CesiumOS-v2.7-jd2019-20200804-1224-OFFICIAL.zip",
-      "id": "745d839ed70ced903923f7329c7a3333",
+      "datetime": 1599031066,
+      "filename": "CesiumOS-v2.7.1-jd2019-20200902-0719-OFFICIAL.zip",
+      "id": "a82d6883ef4f24079ae6e291a6bf7a4b",
       "romtype": "OFFICIAL",
-      "size": 800594067,
-      "url": "https://sourceforge.net/projects/cesiumos-org/files/jd2019/CesiumOS-v2.7-jd2019-20200804-1224-OFFICIAL.zip/download",
-      "version": "2.7"
+      "size": 894812391,
+      "url": "https://sourceforge.net/projects/cesiumos-org/files/jd2019/CesiumOS-v2.7.1-jd2019-20200902-0719-OFFICIAL.zip/download",
+      "version": "2.7.1"
     }
   ]
 }
