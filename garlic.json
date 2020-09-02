@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1599040306,
+      "filename": "CesiumOS-v2.7.1-garlic-20200902-0952-OFFICIAL.zip",
+      "id": "e123977c26b9e901f3362d0e4d3b0f63",
+      "romtype": "OFFICIAL",
+      "size": 861350307,
+      "url": "https://sourceforge.net/projects/cesiumos-org/files/garlic/CesiumOS-v2.7.1-garlic-20200902-0952-OFFICIAL.zip/download",
+      "version": "2.7.1"
+    }
+  ]
+}
