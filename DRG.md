@@ -2,4 +2,5 @@
 
 
 
-• Hotfix: Fix settings app not opening
+• Fix Fingerprint bug
+• Re-enable File Based Encryption
