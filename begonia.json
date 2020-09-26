@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1599740109,
-      "filename": "CesiumOS-v2.7.2-begonia-20200910-1215-OFFICIAL.zip",
-      "id": "b258a61edc79da9b612a5aa3acb750d4",
-      "romtype": "OFFICIAL",
-      "size": 1084244664,
-      "url": "https://sourceforge.net/projects/cesiumos-org/files/begonia/CesiumOS-v2.7.2-begonia-20200910-1215-OFFICIAL.zip/download",
-      "version": "2.7.2"
+      "datetime": 1601113401,
+      "filename": "CesiumOS-v3.0-begonia-20200926-0943-ALPHA.zip",
+      "id": "609a7688f26e1bed142a3b4cb61f14fb",
+      "romtype": "ALPHA",
+      "size": 570669991,
+      "url": "https://onedrive-cesium.herokuapp.com/begonia/CesiumOS-v3.0-begonia-20200926-0943-ALPHA.zip",
+      "version": "3.0"
     }
   ]
 }
