@@ -2,8 +2,8 @@
 
 
 
-• Synced with CesiumOS v2.7.2
-• Kernel upstream to v4.14.197
-• Fixed deep sleep issue
-• Fixed more SELinux denials
-• Updated build fingerprint to Coral's Aug build
+• Synced with CesiumOS v3.0 (27/09/20)
+• Kernel upstream to v4.14.199
+• Enforced the build
+• Signed the build using release-keys
+• Ship ThemePicker & SoundPicker
