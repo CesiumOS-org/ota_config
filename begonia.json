@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1601113401,
-      "filename": "CesiumOS-v3.0-begonia-20200926-0943-ALPHA.zip",
-      "id": "609a7688f26e1bed142a3b4cb61f14fb",
+      "datetime": 1601203312,
+      "filename": "CesiumOS-v3.0-begonia-20200927-1043-ALPHA.zip",
+      "id": "ab6d448e08635911d68e447999fcc1dd",
       "romtype": "ALPHA",
-      "size": 570669991,
-      "url": "https://onedrive-cesium.herokuapp.com/begonia/CesiumOS-v3.0-begonia-20200926-0943-ALPHA.zip",
+      "size": 579180187,
+      "url": "https://onedrive-cesium.herokuapp.com/begonia/CesiumOS-v3.0-begonia-20200927-1043-ALPHA.zip",
       "version": "3.0"
     }
   ]
