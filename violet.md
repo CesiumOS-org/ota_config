@@ -1,15 +1,5 @@
-• First OTA Update.
+* Initial A11 BETA release. 
 
-• Cts Passing without Magisk.
+* Synced with CesiumOS v3.0-BETA(05/10/2020).
 
-• FM Radio Added.
-
-• Adjusted Thermals.
-
-• Mi Dirac Added.
-
-• Fixed Screen Recording.
-
-• Switch To Latest Flame FP.
-
-• Switched To Lib Perf Manager(Aka moaarr smooth).
+* Signed the build using release-keys. 
