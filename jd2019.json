@@ -1,13 +1,1 @@
-{
-  "response": [
-    {
-      "datetime": 1603481830,
-      "filename": "CesiumOS-v3.0-jd2019-20201023-1937-BETA.zip",
-      "id": "9c4c763ff2da7bc5764ccea017df0c14",
-      "romtype": "BETA",
-      "size": 622385621,
-      "url": "https://sourceforge.net/projects/cesiumos-org/files/jd2019/CesiumOS-v3.0-jd2019-20201023-1937-BETA.zip/download",
-      "version": "3.0"
-    }
-  ]
-}
+ROLLBACK!
