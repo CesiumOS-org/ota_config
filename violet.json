@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": ,
-      "filename": "CesiumOS-v3.0-violet-20201006-1511-BETA.zip",
-      "id": "799240eb11d8b67d8c803862f22d75f0",
+      "datetime": 1604213500,
+      "filename": "CesiumOS-v3.0-violet-20201101-0652-BETA.zip",
+      "id": "3845214a02553a6a3efc74ed4cff350a",
       "romtype": "BETA",
-      "size": 837373231,
-      "url": "https://sourceforge.net/projects/cesiumos-org/files/violet/CesiumOS-v3.0-violet-20201006-1511-BETA.zip/download",
+      "size": 876876819,
+      "url": "https://sourceforge.net/projects/cesiumos-org/files/violet/CesiumOS-v3.0-violet-20201101-0652-BETA.zip/download",
       "version": "3.0"
     }
   ]
