@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1603465071,
-      "filename": "CesiumOS-v3.0-beryllium-20201023-1457-BETA.zip",
-      "id": "e62a45888baee9455fd8d13d36d976d5",
+      "datetime": 1604390695,
+      "filename": "CesiumOS-v3.0-beryllium-20201103-0804-BETA.zip",
+      "id": "6c2167555a168be970c7ca5bd0ee64b4",
       "romtype": "BETA",
-      "size": 821812766,
-      "url": "https://sourceforge.net/projects/cesiumos-org/files/beryllium/CesiumOS-v3.0-beryllium-20201023-1457-BETA.zip",
+      "size": 821281305,
+      "url": "https://sourceforge.net/projects/cesiumos-org/files/beryllium/CesiumOS-v3.0-beryllium-20201103-0804-BETA.zip",
       "version": "3.0"
     }
   ]
