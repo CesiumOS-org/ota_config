@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1604402982,
-      "filename": "CesiumOS-v2.9-DRG-20201103-1131-OFFICIAL.zip",
+      "datetime": 1605189431,
+      "filename": "CesiumOS-v3.0-DRG_sprout-20201112-1212-BETA.zip",
       "id": "65629637bf5236c25e85d07a1a5d4635",
       "romtype": "OFFICIAL",
-      "size": 923328357,
-      "url": "https://sourceforge.net/projects/cesiumos-org/files/DRG/CesiumOS-v2.9-DRG-20201103-1131-OFFICIAL.zip/download",
+      "size": 741321269,
+      "url": "https://sourceforge.net/projects/cesiumos-org/files/DRG/CesiumOS-v3.0-DRG_sprout-20201112-1212-BETA.zip/download",
       "version": "2.9"
     }
   ]
