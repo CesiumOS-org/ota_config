@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1605006432,
+      "datetime": 1605844132,,
       "filename": "CesiumOS-v3.0-begonia-20201110-1108-BETA.zip",
-      "id": "fa25c69947ce0cdb627bec5c59ab729c",
+      "id": "9cc8aebe0e37b7dfa2838d702e420275",
       "romtype": "BETA",
-      "size": 656614886,
-      "url": "https://sourceforge.net/projects/cesiumos-org/files/begonia/CesiumOS-v3.0-begonia-20201110-1108-BETA.zip/download",
+      "size": 708522780,
+      "url": "https://sourceforge.net/projects/cesiumos-org/files/begonia/CesiumOS-v3.0-begonia-20201120-0352-BETA.zip/download",
       "version": "3.0"
     }
   ]
